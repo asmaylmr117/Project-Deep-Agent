@@ -28,7 +28,7 @@ The repository is organized into multiple modules (`m1` → `m5`), allowing each
 
 ---
 
-## ✨ What You'll Learn
+## ✨ Features
 
 * 🤖 Building autonomous AI agents
 * 🧠 Agent planning and task decomposition
