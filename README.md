@@ -43,24 +43,6 @@ The repository is organized into multiple modules (`m1` → `m5`), allowing each
 
 ---
 
-## 🏗️ Project Structure
-
-```text
-Deep-Agent/
-│
-├── m1/                         # Module 1
-├── m2/                         # Module 2
-├── m3/                         # Module 3
-├── m4/                         # Module 4
-├── m5/                         # Module 5
-│
-├── models.py                   # Model configuration
-├── env_utils.py                # Environment configuration utilities
-├── pyproject.toml              # Project dependencies & configuration
-├── uv.lock                     # Locked dependencies
-├── .gitignore
-└── README.md
-```
 
 ---
 
